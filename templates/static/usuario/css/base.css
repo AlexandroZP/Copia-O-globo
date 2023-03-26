@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900;1000&family=Open+Sans&family=Roboto:wght@100;300;400&display=swap');
+body{
+    font: 400 14px 'Open Sans', sans-serif;
+}
+h2 {
+    font: 900 22px 'Nunito', sans-serif;
+    color:rgb(2, 85, 180);
+    margin-top: 20px; 
+}
+p{
+    margin-top: 5px;
+}
+p.subtitulo{
+    font: 400 20px 'Roboto', sans-serif;
+    margin-top: 10px;
+}
+a{
+    color:rgb(2, 85, 180); 
+    font:900 14px 'Nunito', sans-serif;
+    text-decoration: none;
+    
+}
+button.principal{
+    margin-top: 30px;
+    background-color: rgb(2, 85, 180);
+}
+.social-btn{
+    width: 201px;
+    height: 36px;
+    border: none;
+    box-shadow: 0px 0px 4px 1px;
+    text-align: center;
+    font: 400 20px 'Roboto', sans-serif;
+}
+.btn-google {
+    margin-left: 5px;
+}
